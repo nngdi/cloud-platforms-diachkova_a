@@ -147,13 +147,3 @@ Cloud Tasks создаёт очередь запросов. Worker получа�
 
 Расчёт показал, что при увеличении числа пользователей и запросов расходы на инфраструктуру растут. Наибольшая статья в предложенной модели — обращения к AI. Исходные данные и суммы были подготовлены с помощью ИИ и требуют проверки на реальных показателях проекта.
 
-## Источники
-
-1. [Сайт проекта Svadly](https://svadly.ru/).
-2. [Задание лабораторной работы № 4](https://ex-itmo-ict-faculty.github.io/cloud-platforms-as-the-basis-of-technology-entrepreneurship/education/labs2023-2024/lab4/lab4/).
-3. [Тарифы OpenAI API — GPT-5.4 mini](https://developers.openai.com/api/docs/models/gpt-5.4-mini).
-4. [Тарифы Cloud Run](https://cloud.google.com/run/pricing).
-5. [Тарифы Cloud Storage](https://cloud.google.com/storage/pricing).
-6. [Тарифы Firestore](https://cloud.google.com/firestore/pricing).
-7. [Тарифы Cloud Tasks](https://cloud.google.com/tasks/pricing).
-8. [Тарифы сетевого трафика](https://cloud.google.com/vpc/network-pricing).
